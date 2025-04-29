@@ -14,7 +14,7 @@ const Education = () => {
             <h3 className="text-2xl font-bold mb-2">High School</h3>
             <span className="text-cyan-400 font-semibold mb-4">2020</span>
             <p className="text-gray-400 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Bangladesh Railway Govt. High School, Chittagong
             </p>
           </div>
         </div>
@@ -24,9 +24,9 @@ const Education = () => {
           <div className="flex flex-col items-center">
             <div className="w-5 h-5 bg-cyan-400 rounded-full mb-4"></div>
             <h3 className="text-2xl font-bold mb-2">University</h3>
-            <span className="text-cyan-400 font-semibold mb-4">2022</span>
+            <span className="text-cyan-400 font-semibold mb-4">2025</span>
             <p className="text-gray-400 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Diploma in Engineering (CST) : Chittagong Technical College (CTC)
             </p>
           </div>
         </div>
@@ -36,9 +36,8 @@ const Education = () => {
           <div className="flex flex-col items-center">
             <div className="w-5 h-5 bg-cyan-400 rounded-full mb-4"></div>
             <h3 className="text-2xl font-bold mb-2">Internship</h3>
-            <span className="text-cyan-400 font-semibold mb-4">2023</span>
-            <p className="text-gray-400 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            <span className="text-cyan-400 font-semibold mb-4">2024</span>
+            <p className="text-gray-400 text-center"> Internship in MERN stack at Well-Up Technology
             </p>
           </div>
         </div>
