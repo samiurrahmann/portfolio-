@@ -3,7 +3,7 @@ import React from "react";
 const Education = () => {
   return (
     <section className="bg-black text-white py-16 px-5 md:px-20">
-      <h2 className="text-4xl md:text-5xl font-bold text-center mb-12">Education</h2>
+      <h2 className=" text-4xl md:text-5xl font-bold text-center mb-12">Education</h2>
 
       <div className="relative flex flex-col md:flex-row justify-center items-center gap-12">
         

@@ -6,28 +6,28 @@ const Hero = () => {
       
       {/* Left Content */}
       <div className="text-center md:text-left space-y-6">
-        <h1 className="text-4xl md:text-6xl font-bold text-white">
-          Hi, It's <span className="text-cyan-400">Samiur Rahman</span>
+        <h1 className="text-4xl md:text-6xl font-bold typewriter text-white">
+          Hi, It's <span className="text-cyan-400 ">Samiur Rahman</span>
         </h1>
-        <h2 className="text-2xl md:text-4xl font-semibold text-white">
-          I'm a <span className="text-cyan-400">Frontend Developer</span>
+        <h2 className=" text-2xl md:text-4xl font-semibold text-white">
+          I'm a <span className=" text-cyan-400">Frontend Developer</span>
         </h2>
         <p className="text-gray-400 max-w-md">
         Crafting responsive, elegant, and high-performance websites. Passionate about clean code, modern design, and creating great user experiences.</p>
         
         {/* Social Links */}
         <div className="flex justify-center md:justify-start gap-4">
-          <a href="#" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
+          <a href="https://www.linkedin.com/in/samiur-rahmann/" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
             <i className="fab fa-linkedin-in"></i>
           </a>
-          <a href="#" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
+          <a href="https://www.pinterest.com/pin_samiurrahman/" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
             <i className="fab fa-pinterest-p"></i>
           </a>
-          <a href="#" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
-            <i className="fab fa-instagram"></i>
+          <a href="https://www.facebook.com/ur.samiur/" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
+            <i className="fab fa-facebook"></i>
           </a>
-          <a href="#" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
-            <i className="fab fa-twitter"></i>
+          <a href="https://github.com/samiurrahmann" className="btn btn-circle bg-cyan-400 text-black hover:bg-cyan-500">
+            <i className="fab fa-github"></i>
           </a>
         </div>
 
@@ -63,4 +63,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Hero ;
