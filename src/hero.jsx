@@ -33,11 +33,12 @@ const Hero = () => {
 
         {/* Action Buttons */}
         <div className="flex justify-center md:justify-start gap-6 pt-6">
-          <button className="btn bg-cyan-400 text-black hover:bg-cyan-500">Hire</button>
-          <button className="btn btn-outline border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-black">
-            Contact
-          </button>
-        </div>
+  <a href="#connect" className="btn bg-cyan-400 text-black hover:bg-cyan-500">Hire</a>
+  <a href="#connect" className="btn btn-outline border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-black">
+    Contact
+  </a>
+</div>
+
       </div>
 
       {/* Right Image */}

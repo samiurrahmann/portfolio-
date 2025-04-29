@@ -1,4 +1,5 @@
 import Education from "./Education";
+import Footer from "./Footer";
 import Hero from "./hero";
 
 
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
     <Hero></Hero>
     <Education></Education>
+     <Footer></Footer>
     </div>
   );
 }
